@@ -119,6 +119,7 @@
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="reverseLinkList.cpp" />
     <ClCompile Include="企业版链表.cpp" />
+    <ClCompile Include="二叉树的遍历.cpp" />
     <ClCompile Include="递归逆序字符串.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
