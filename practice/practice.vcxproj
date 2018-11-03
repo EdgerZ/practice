@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="malloc前四个字节验证.cpp" />
     <ClCompile Include="dynamicArray.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="reverseLinkList.cpp" />

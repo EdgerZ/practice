@@ -33,5 +33,8 @@
     <ClCompile Include="二叉树的遍历.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="malloc前四个字节验证.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
