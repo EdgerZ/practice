@@ -36,5 +36,11 @@
     <ClCompile Include="malloc前四个字节验证.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="const成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
